@@ -1,3 +1,5 @@
+#This is a script that uses an online webserver to constantly ping the bot so repl.it doesn't automatically turn the bot off.
+
 from flask import Flask
 from threading import Thread 
 
